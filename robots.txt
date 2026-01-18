@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zmliu-github.github.io/sitemap.xml
+Sitemap: https://zmliu-buaa.github.io/sitemap.xml
