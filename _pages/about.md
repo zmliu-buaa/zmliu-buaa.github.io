@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ Beijing University of Aeronautics and Astronautics
+subtitle:
 
 profile:
   align: right
