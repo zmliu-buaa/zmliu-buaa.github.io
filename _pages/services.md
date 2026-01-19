@@ -8,10 +8,12 @@ nav_order: 3
 ---
 
 ## Academic Services
-- **Area Chairs**: ACL 2026
-- **Program Committee**: AAAI 2025, AAAI 2024
-- **Reviewer**: NeurIPS 2025, ACL 2025, EMNLP 2025, ACL 2024, EMNLP 2024
-
+- **Area Chair**: ACL Rolling Review, ACL, ICLR, NAACL, EACL.
+- **Journal reviewer**: IEEE Transactions on Knowledge and Data Engineering(TKDE, CCF A),
+Scientific Reports, Humanities and Social Sciences Communications(Q1), Information Sciences(IS,
+CCF B), Knowledge and Information Systems(KAIS, CCF B), Data Intelligence.
+- **Conference reviewer/PC member**: ACL Rolling Review, ACL, ICLR, Neurips, EMNLP, AAAI,
+NAACL, MMAsia, NLPCC.
 
 
 ## Academic Competitions Organization
