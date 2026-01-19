@@ -8,12 +8,31 @@ nav_order: 3
 ---
 
 ## Academic Services
-- **Area Chair**: ACL Rolling Review, ACL, ICLR, NAACL, EACL.
-- **Journal reviewer**: IEEE Transactions on Knowledge and Data Engineering(TKDE, CCF A),
-Scientific Reports, Humanities and Social Sciences Communications(Q1), Information Sciences(IS,
-CCF B), Knowledge and Information Systems(KAIS, CCF B), Data Intelligence.
-- **Conference reviewer/PC member**: ACL Rolling Review, ACL, ICLR, Neurips, EMNLP, AAAI,
-NAACL, MMAsia, NLPCC.
+
+**Area Chair**: 
+- ACL Rolling Review 2025, 2026
+- ACL and NAACL 2026
+- EACL 2026
+- ICLR 2026 Workshop LLA Area Chairs
+
+**Journal reviewer**: 
+- IEEE Transactions on Knowledge and Data Engineering(TKDE, CCF A)
+- Scientific Reports
+- Humanities and Social Sciences Communications(Q1)
+- Information Sciences(IS, CCF B)
+- Knowledge and Information Systems(KAIS, CCF B)
+- Data Intelligence
+
+**Conference reviewer/PC member**: 
+- ACL Rolling Review 2022, 2023, 2024, 2025
+- ACL 2022, 2023, 2024, 2025
+- EMNLP 2022, 2023, 2024, 2025
+- NAACL 2022, 2024, 2025
+- ICLR 2025, 2026
+- Neurips 2025
+- AAAI 2026
+- MMAsia 2023
+- NLPCC 2025
 
 
 ## Academic Competitions Organization
