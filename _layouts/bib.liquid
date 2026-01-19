@@ -58,6 +58,15 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
+      {%- assign first_author = entry.author_array.first -%}
+      {%- assign first_author_name = first_author.first | append: first_author.last -%}
+      {%- assign is_chinese_paper = false -%}
+      {%- if entry.title contains '中文' or entry.title contains '大语言' or entry.title contains '对话' or entry.title contains '评估' or entry.title contains '安全性' or entry.title contains '分类' or entry.title contains '归因' or entry.title contains '缓解' or entry.title contains '展望' -%}
+        {%- assign is_chinese_paper = true -%}
+      {%- elsif first_author_name contains '柳' or first_author_name contains '黄' or first_author_name contains '程' or first_author_name contains '刘' or first_author_name contains '杨' or first_author_name contains '郭' or first_author_name contains '王' or first_author_name contains '李' or first_author_name contains '兰' or first_author_name contains '邱' or first_author_name contains '姚' or first_author_name contains '曾' or first_author_name contains '单' or first_author_name contains '施' -%}
+        {%- assign is_chinese_paper = true -%}
+      {%- endif -%}
+
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
@@ -82,7 +91,7 @@
           {% if forloop.first == false -%}
             {%- if forloop.length > 2 %}, {% elsif forloop.length == 2 %}  {% endif %}
           {%- endif %}
-          {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
+          {%- if forloop.last and author_array_limit == author_array_size and is_chinese_paper == false %}and {% endif -%}
         {% endif %}
         {%- if author_is_self -%}
           <em>
