@@ -31,6 +31,7 @@ nav_order: 3
 - ICLR 2025, 2026
 - ICML 2026
 - Neurips 2025
+- KDD 2026
 - AAAI 2026
 - MMAsia 2023
 - NLPCC 2025
