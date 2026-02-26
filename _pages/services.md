@@ -18,7 +18,7 @@ nav_order: 3
 **Journal reviewer**: 
 - IEEE Transactions on Knowledge and Data Engineering(TKDE, CCF A, Q1)
 - Scientific Reports(Nature Publishing Group, Q1)
-- Humanities and Social Sciences Communications(Q1)
+- Humanities and Social Sciences Communications(The only journal under Nature that focuses on humanities and social sciences, Q1)
 - Information Sciences(IS, CCF B, Q1)
 - Knowledge and Information Systems(KAIS, CCF B, Q2)
 - Data Intelligence(Q2)
