@@ -198,11 +198,11 @@
       {{ entryyear }}
     </div>
     {% endif %}
-    {% comment %}
-    <div class="periodical">
+    {% if entry.note != blank %}
+    <div class="periodical" style="font-style: italic; opacity: 0.9;">
       {{ entry.note | strip }}
     </div>
-    {% endcomment %}
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
