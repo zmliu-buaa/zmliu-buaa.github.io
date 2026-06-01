@@ -12,6 +12,7 @@ nav_order: 3
 **Area Chair**: 
 - ACL Rolling Review 2025, 2026
 - ACL and NAACL 2026
+- EMNLP 2026
 - EACL 2026
 - ICLR 2026 Workshop LLA Area Chairs
 
