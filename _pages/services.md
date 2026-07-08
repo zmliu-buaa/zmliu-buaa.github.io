@@ -14,7 +14,8 @@ nav_order: 3
 - ACL and NAACL 2026
 - EMNLP 2026
 - EACL 2026
-- ICLR 2026 Workshop LLA Area Chairs
+- ICLR 2026 Workshop LLA
+- COLM 2026 Workshop LLA
 
 **Journal reviewer**: 
 - IEEE Transactions on Knowledge and Data Engineering(TKDE, CCF A, Q1)
