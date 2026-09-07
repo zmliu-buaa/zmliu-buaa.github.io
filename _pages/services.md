@@ -25,6 +25,7 @@ nav_order: 3
 - Humanities and Social Sciences Communications(The only journal under Nature that focuses on humanities and social sciences, Q1)
 - Information Sciences(IS, CCF B, Q1)
 - Knowledge and Information Systems(KAIS, CCF B, Q2)
+- ACM Transactions on Asian and Low-Resource Language Information Processing(TALLIP, Q2)
 - Data Intelligence(Q2)
 
 **Conference reviewer/PC member**: 
