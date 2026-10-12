@@ -19,6 +19,7 @@ nav_order: 3
 - COLM 2026 Workshop LLA
 
 **Journal reviewer**: 
+- Nature Synthesis(Nature Portfolio, Q1, IF 22.6)
 - IEEE Transactions on Knowledge and Data Engineering(TKDE, CCF A, Q1)
 - Scientific Reports(Nature Publishing Group, Q1)
 - Pattern Recognition (CCF B, Q1)
