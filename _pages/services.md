@@ -38,6 +38,7 @@ nav_order: 3
 - ICML 2026
 - Neurips 2025
 - KDD 2026
+- CVPR 2027
 - ECCV 2026
 - AAAI 2026, 2027
 - ACM MM 2026
